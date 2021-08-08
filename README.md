@@ -1,2 +1,2 @@
 
-# Some javascript exercise for beginners friendly and advance level.
+Some javascript exercise for beginners friendly and advance level.
