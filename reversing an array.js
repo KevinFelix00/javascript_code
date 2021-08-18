@@ -5,7 +5,6 @@ function reverseArray(arr1, arr2) {
 
     [arr1, arr2] = [arr2, arr1];
     return arr1.concat(arr2);
-
 }
 
-console.log(reverseArray([1, 2, 3, 4, 5, 6], [8, 9, 10]));
+console.log(reverseArray([1, 2, 3, 4, 5, 6], [7, 8, 9]));
