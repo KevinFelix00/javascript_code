@@ -6,7 +6,6 @@ function countBs(str) {
         for (let Count of str) {
            console.log(count);
         }
-   
 }
  
 countBs("bbbbBBBjkjdfbb");
@@ -18,7 +17,6 @@ function countChar( char, count) {
     for (var i = 0; i < count.length; i++) {
         return count.length;
     }
-
     return 0;
 }
 
