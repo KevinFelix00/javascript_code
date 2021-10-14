@@ -1,2 +1,2 @@
 # javascript_code
-some Javascript Tuorial Code for beginners
+some Javascript Tuorial Code for beginners.
