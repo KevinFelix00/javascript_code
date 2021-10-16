@@ -6,7 +6,7 @@ function combinationofarrays(arr1, arr2) {
     arr2 = ["flatten"];
     let combineAnArrays = arr1.concat(arr2);  // combine arrays.
     console.log(combineAnArrays);
-    console.log(combineAnArrays.reduce((result) => {
+    console.log(combineAnArrays.reduce((result) => {   // reduce method combine all the element in an array into a single value.
         for (let elt of combineAnArrays) {   //iterate through the new array combineAnArrays.
             result = [];  // create a new array.
             result.push(elt);  // append elt to the new array.
