@@ -14,6 +14,6 @@ function Bubblesort(arr) {
     return arr;
 }
 
-console.log(Bubblesort([7, 5, 2, 4, 3, 9]));
-console.log(Bubblesort([9, 7, 5, 4, 3, 1]));
-console.log(Bubblesort([1, 2, 3, 4, 5, 6]));
+console.log(Bubblesort([7, 5, 2, 4, 3, 9]));   // [2, 3, 4, 5, 7, 9]
+console.log(Bubblesort([9, 7, 5, 4, 3, 1]));   // [3, 4, 5, 7, 9, 1]
+console.log(Bubblesort([1, 2, 3, 4, 5, 6]));   // [1, 2, 3, 4, 5, 6]
