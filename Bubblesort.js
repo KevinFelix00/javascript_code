@@ -6,8 +6,8 @@ function Bubblesort(arr) {
         for (let j = 1; j < i; j++) {
             if (arr[j - 1] > arr[j]) {
                 let temp = arr[j - 1];
-                arr[j - 1] = arr[j];  
-                arr[j] = temp;
+                arr[j - 1] = arr[j];   // referenceing the index value 5, 7, 2 to arr[j-1]
+                arr[j] = temp;         // referencing 7, 9, 1 arr[j]
             }
         }
     }
