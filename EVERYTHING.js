@@ -1,6 +1,7 @@
 /* Implement every as a function that takes an array and a predicate function as parameters. Write two versions, one using a loop and one using the some method.*/
 
 // using the loop version
+
 'use strict';
 function every1(arr, test) {
     function test() { return true; }
