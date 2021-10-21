@@ -11,4 +11,4 @@ function largest(arr) {
     return max;
 }
 
-console.log(largest(arr))  
+console.log(largest(arr))  // 8
