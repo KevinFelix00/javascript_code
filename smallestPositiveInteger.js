@@ -21,4 +21,4 @@ var firstMissingPositive = function (nums) {
 
 var A = [1, 3, 6, 4, 1, 2];
 
-console.log(firstMissingPositive(A));
+console.log(firstMissingPositive(A));   // 5
