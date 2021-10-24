@@ -11,5 +11,7 @@ function removeElement(value) {
     }
 }
 
+// remove colors
+
 removeElement("black");
 console.log(colors);
