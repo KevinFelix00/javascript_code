@@ -1,5 +1,7 @@
 /* Find the smallest positive integer, not in given an array of numbers ? */
 
+// initialize the number
+
 var firstMissingPositive = function (nums) {
     var swap = function (i, j) {
         var temp = nums[i];
