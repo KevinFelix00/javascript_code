@@ -11,7 +11,9 @@ function min(a, b){}
 function min(a, b) {
     if (a - b > 0 && b-a < 0 ) {
         return b;
-    } else { return a; }
+    } else { 
+        return a; 
+    }
 }
 
 console.log(min(4, -1));
