@@ -1,6 +1,7 @@
 // [November]/[Day 11]/[Javascript]/{reverseInteger.js}
     
-    
+// Here I implement a Bitwise Operator algorithm
+
 function reverseInteger(num) {
     var digit, result = 0;
 
