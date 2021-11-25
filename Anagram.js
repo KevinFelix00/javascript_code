@@ -9,5 +9,5 @@ function anagram(str1, str2) {
     }
 }
 
-console.log(anagram("hello", "olleh"));
-console.log(anagram("ronak", "konar"));
+console.log(anagram("hello", "olleh"));  // Anagram
+console.log(anagram("ronak", "konar"));  // Anagram
