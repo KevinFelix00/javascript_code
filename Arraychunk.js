@@ -1,6 +1,6 @@
 const chunk = function (array, size){
     if (!array.length) {
-        return [];
+        return [];  // Give an empty array
     }
     const head = array.slice(0, size);
     const tail = array.slice(size);  // Pull a copy of a portion of an array
